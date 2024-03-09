@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python-template"
+name = "flet_reactive_controls"
 version = "0.0.1"
 description = "FLET リアクティブ・コントロール"
 authors = ["Your Name <you@example.com>"]
